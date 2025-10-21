@@ -4,7 +4,7 @@ Built with basic HTML and CSS.
 
 ## Video
 
- ![](Screen Recording.mov)  
+ ![](Screen_Recording.mov)  
 
 
 ## Live Demo
